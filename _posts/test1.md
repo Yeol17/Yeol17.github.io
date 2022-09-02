@@ -3,9 +3,7 @@ layout: post
 title:  "테스트 포스팅1"
 summary: This is a sample post 1 by yeol !
 author: yeol
-date: ```javascript
-        Date.now();
-        ```
+date: {page.date}
 category: test
 thumbnail: /assets/img/posts/code.jpg
 ---
