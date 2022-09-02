@@ -3,7 +3,7 @@ layout: post
 title:  "테스트 포스팅1"
 summary: This is a sample post 1 by yeol !
 author: yeol
-date: {page.date}
+date: {{page.date|date:"%b/%d/%Y"}}
 category: test
 thumbnail: /assets/img/posts/code.jpg
 ---
